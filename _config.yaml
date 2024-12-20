@@ -31,4 +31,4 @@ mardown: kramdown
 #Using custom theme
 theme: minima
 header_pages:
-  - about.md
+  - about.markdown
